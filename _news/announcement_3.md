@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: August, 2018 - May, 2020
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Fullbright scholarship: A prestigious scholarship awarded to select students in the world for their graduate degrees.
