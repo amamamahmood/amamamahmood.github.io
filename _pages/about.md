@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.jhu.edu/'>Johns Hopkins University</a>. Balimore, MD, USA. 
 
 profile:
   align: left
