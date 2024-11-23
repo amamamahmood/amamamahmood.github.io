@@ -5,4 +5,4 @@ title: Community Services
 permalink: 
 ---
 
-{% include service.liquid %}
+{% include news.liquid %}
