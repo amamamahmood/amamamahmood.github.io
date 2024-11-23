@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: August, 2020
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Creel Family Engineering Fellowship, Department of Computer Science, Johns Hopkins University
