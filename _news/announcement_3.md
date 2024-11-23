@@ -1,6 +1,6 @@
 ---
 layout: post
-date: August, 2018 - May, 2020
+date: August, 2018
 inline: true
 related_posts: false
 ---
