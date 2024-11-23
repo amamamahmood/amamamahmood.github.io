@@ -48,16 +48,22 @@ layout: default
     {% endif %}
     <div class="clearfix">{{ content }}</div>
 
-     <!-- Teaching -->
-      {% if page.teaching -%}
-        <h3 style="margin-top: 20px">Teaching and Mentoring</h3>
-        {%- include teaching.liquid %}
-      {%- endif %}
-  
+    <!-- Teaching -->      
+    {% if page.teaching -%}
+      <h3 style="margin-top: 20px">Teaching and Mentoring</h3>
+      {%- include teaching.liquid %}
+    {%- endif %}
+
+    <!-- Teaching -->      
+    {% if page.service -%}
+      <h3 style="margin-top: 20px">Teaching and Mentoring</h3>
+      {%- include teaching.liquid %}
+    {%- endif %}
+
     <!-- Awards  -->
     {% if page.news and site.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit"> Selected Awards and Achievements</a>
+        <a style="color: inherit"> Selected Awards and Achievements</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
