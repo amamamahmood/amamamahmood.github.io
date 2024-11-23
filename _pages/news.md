@@ -1,7 +1,7 @@
 ---
 layout: page
-title: news
-permalink: /news/
+title: Selected Awards and Achievements
+permalink: /announcments/
 ---
 
 {% include news.liquid %}
