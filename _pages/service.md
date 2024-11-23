@@ -1,7 +1,7 @@
 ---
 layout: page
 enabled: false
-title: Selected Awards and Achievements
+title: Community Services
 permalink: 
 ---
 
