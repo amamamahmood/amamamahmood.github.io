@@ -48,6 +48,12 @@ layout: default
     {% endif %}
     <div class="clearfix">{{ content }}</div>
 
+     <!-- Teaching -->
+      {% if page.teaching -%}
+        <h3 style="margin-top: 20px">Teaching Experience</h3>
+        {%- include teaching.html %}
+      {%- endif %}
+  
     <!-- Awards  -->
     {% if page.news and site.announcements.enabled %}
       <h2>
