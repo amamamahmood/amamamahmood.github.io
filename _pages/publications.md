@@ -13,7 +13,7 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<div class="publications">
+<div class="publications" style="width: 100%; max-width: 100%; margin: 0 auto; padding: 0;">
 
 {% bibliography %}
 
