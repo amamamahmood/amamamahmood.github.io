@@ -659,6 +659,10 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
+  max-width: 100%; /* Ensure no unnecessary restrictions */
+  width: 100%; /* Make it span the full width */
+  padding: 0; /* Remove unnecessary padding (if any) */
+
 
   h1 {
     color: var(--global-theme-color);
