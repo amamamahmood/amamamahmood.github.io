@@ -24,5 +24,5 @@ My research, situated at the intersection of HCI, AI and Robotics, focuses on en
 My CV may be viewed <a href="https://amamamahmood.github.io/assets/pdf/CV-Amama-Mahmood.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
 
-I am on the job market for tenure track faculty positions.
+I am on the job market for post-doc and tenure track faculty positions.
 
