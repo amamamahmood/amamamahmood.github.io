@@ -15,6 +15,12 @@ layout: default
   </header>
 
   <article>
+    {% if page.keywords %}
+      <div class="keywords-bar">
+        <strong>Keywords:</strong> 
+        {{ page.keywords | join: ', ' }}
+      </div>
+    {% endif %}
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
