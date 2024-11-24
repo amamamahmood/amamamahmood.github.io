@@ -6,7 +6,7 @@ subtitle: <a href='https://www.jhu.edu/'>Johns Hopkins University</a>. Balimore,
 
 profile:
   align: left
-  image: amama-square.jpg
+  image: amama.jpg
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
