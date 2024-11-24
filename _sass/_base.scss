@@ -1305,3 +1305,23 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+.keywords-bar {
+  position: fixed; /* Makes the bar fixed on the right side */
+  top: 50%; /* Positions the bar vertically in the middle */
+  right: 0; /* Aligns the bar to the right side */
+  transform: translateY(-50%); /* Centers the bar vertically */
+  background-color: #f9f9f9; /* Light background for visibility */
+  padding: 10px 15px; /* Adds spacing around the text */
+  border: 1px solid #ddd; /* Optional: Border for a clean look */
+  border-radius: 5px; /* Optional: Rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow */
+  font-size: 0.9em; /* Adjust text size */
+  color: #333; /* Text color */
+  white-space: nowrap; /* Ensures text stays in a single line */
+  z-index: 1000; /* Keeps the bar above other content */
+}
+
+.keywords-bar strong {
+  margin-right: 5px; /* Adds spacing between "Keywords:" and the list */
+  font-weight: bold;
+}
