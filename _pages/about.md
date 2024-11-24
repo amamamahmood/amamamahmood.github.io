@@ -31,5 +31,4 @@ My CV may be viewed <a href="https://amamamahmood.github.io/assets/pdf/CV-Amama-
 I am on the job market for post-doc and tenure track faculty positions.
 
 <br/>
-<br/>
 **Keywords**: *Human-AI Interaction, Human-Computer Interaction, Human-Centered AI, Human-Robot Interaction, Assistive Technologies, Conversational Agents, Large Language Models, Human-Subjects Research*
