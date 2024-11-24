@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Fullbright scholarship.
+Fullbright scholarship
