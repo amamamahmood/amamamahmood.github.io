@@ -48,6 +48,15 @@ layout: default
     {% endif %}
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Awards  -->
+    {% if page.news and site.announcements.enabled %}
+      <h2>
+        <a style="color: inherit"> Selected Awards and Achievements</a>
+      </h2>
+      {% include news.liquid limit=true %}
+    {% endif %}
+
+
     <!-- Teaching -->      
     {% if page.teaching -%}
       <h3 style="margin-top: 20px">Teaching and Mentoring</h3>
@@ -60,13 +69,6 @@ layout: default
       {%- include service.liquid %}
     {%- endif %}
 
-    <!-- Awards  -->
-    {% if page.news and site.announcements.enabled %}
-      <h2>
-        <a style="color: inherit"> Selected Awards and Achievements</a>
-      </h2>
-      {% include news.liquid limit=true %}
-    {% endif %}
 
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
