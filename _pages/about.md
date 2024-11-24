@@ -14,6 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 posts: false
 teaching: true
+service: true
 ---
 
 I am fifth year Ph.D. candidate at Department of Computer Science, Johns Hopkins University. I am a member of [Intuitive Computing Lab](https://intuitivecomputing.github.io/), which is affiliated with the [Malone Center for Engineering  in Healthcare](https://malonecenter.jhu.edu/) and [Laboratory for Computational Sensing and Robotics](https://lcsr.jhu.edu/). I am advised by [Dr. Chien-Ming Huang](https://www.cs.jhu.edu/~cmhuang/)
