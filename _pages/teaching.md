@@ -7,6 +7,8 @@ nav: false
 nav_order: 6
 ---
 
+### Course Instructor, Johns Hopkins University (Spring 2025)
+- Teaching **EN.601.491/691 Human-Robot Interaction**.
 
 ### Teaching Assistant, Johns Hopkins University (Fall 2021)
 - Graded and held office hours for **EN.601.490/690 Introduction to Human-Computer Interaction**.
