@@ -55,6 +55,11 @@ layout: default
     <div class="clearfix">{{ content }}</div>
 
     <!-- Awards  -->
+    {% if page.awards -%}
+      <h3 style="margin-top: 20px">Selected Awards and Achievements</h3>
+      {%- include awards.liquid %}
+    {%- endif %}
+    
     {% if page.news and site.announcements.enabled %}
       <h2>
         <a style="color: black"> Selected Awards and Achievements</a>
