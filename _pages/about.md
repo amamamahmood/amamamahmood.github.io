@@ -20,6 +20,7 @@ posts: false
 teaching: true
 service: true
 keywords: false
+awards: true
 ---
 
 I am [Malone Postdoc Fellow](https://malonecenter.jhu.edu/postdoctoral-researchers/) in [Malone Center for Engineering  in Healthcare](https://malonecenter.jhu.edu/) & [Department of Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). I am co-advised by [Dr. Chien-Ming Huang](https://www.cs.jhu.edu/~cmhuang/), [Dr. Ziang Xiao](https://www.ziangxiao.com/), and [Dr. Paul Yi, MD](https://www.stjude.org/people/y/paul-yi.html).
