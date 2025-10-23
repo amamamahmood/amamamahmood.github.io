@@ -29,9 +29,7 @@ I am [Malone Postdoc Fellow](https://malonecenter.jhu.edu/postdoctoral-researche
 
 My research, situated at the intersection of HCI and Health, focuses on enhancing human-machine interactions to support health and well-being. Specifically, I develop AI assistants-powered by LLMs-that enable seamless, adaptive interactions by understanding user behaviors in various real-world contexts. I design, develop and evaluate AI assistants that support personal health and well-being through continuous, personalized assistance and augment clinical practices effectively and seamlessly. With a focus on empowering special populations such as older adults in managing their health to facilitate aging in place, my work emphasizes situated, long-term, sustainable, "in the wild" human-machine interactions. 
 
-My CV may be viewed <a href="https://amamamahmood.github.io/assets/pdf/CV-Amama-Mahmood.pdf" target="_blank" rel="noopener noreferrer">here</a>.
-
-I am on the job market for tenure track academic and industry research positions. Please reach out if you know any opportunities!
+I am on the job market for tenure track academic and industry research positions. Please reach out if you know any opportunities! My CV may be viewed <a href="https://amamamahmood.github.io/assets/pdf/CV-Amama-Mahmood.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
 <br/>
-**Keywords**: * Human-Computer Interaction, Human-AI Interaction, Human-Centered AI, Human-Robot Interaction, Health, Assistive Technologies, AI assistants, Conversational Agents, Large Language Models, Human-Subjects Research*
+**Keywords**: *Human-Computer Interaction, Human-AI Interaction, Human-Centered AI, Human-Robot Interaction, Health, Assistive Technologies, AI assistants, Conversational Agents, Large Language Models, Human-Subjects Research*
