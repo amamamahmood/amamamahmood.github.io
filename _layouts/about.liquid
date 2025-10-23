@@ -74,12 +74,19 @@ layout: default
       {%- include teaching.liquid %}
     {%- endif %}
 
+   
+
     <!-- Service -->      
     {% if page.service -%}
       <h3 style="margin-top: 20px">Academic and Community Service</h3>
       {%- include service.liquid %}
     {%- endif %}
 
+   <!-- Latest Posts -->      
+  {% if page.my-posts -%}
+    <h3 style="margin-top: 20px">Teaching and Mentoring</h3>
+    {%- include my-posts.liquid %}
+  {%- endif %}
 
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
