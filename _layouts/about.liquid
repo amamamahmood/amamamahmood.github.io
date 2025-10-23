@@ -82,6 +82,12 @@ layout: default
       {%- include service.liquid %}
     {%- endif %}
 
+  <!-- Invited Talks -->      
+  {% if page.talks -%}
+    <h3 style="margin-top: 20px">Invited Talks</h3>
+    {%- include talks.liquid %}
+  {%- endif %}
+
    <!-- Latest Posts -->      
   {% if page.my-posts -%}
     <h3 style="margin-top: 20px">Latest Posts</h3>
