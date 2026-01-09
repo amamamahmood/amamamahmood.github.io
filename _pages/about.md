@@ -25,11 +25,14 @@ my-posts: true
 talks: true
 ---
 
-I am on the job market for 2026. Please reach out if you know any opportunities! <a href="https://amamamahmood.github.io/assets/pdf/CV-Amama-Mahmood.pdf" target="_blank" class="cv-button">
+<span style="color:#d35400; font-weight:600;">
+I am on the job market for 2026. Please reach out if you know any opportunities!</span> 
+<br/>
+
+<a href="https://amamamahmood.github.io/assets/pdf/CV-Amama-Mahmood.pdf" target="_blank" class="cv-button">
   📄 View my CV
 </a>
 
-<br/>
 
 I am [Malone Postdoc Fellow](https://malonecenter.jhu.edu/postdoctoral-researchers/) in [Malone Center for Engineering  in Healthcare](https://malonecenter.jhu.edu/) & [Department of Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). I am co-advised by [Dr. Chien-Ming Huang](https://www.cs.jhu.edu/~cmhuang/), [Dr. Ziang Xiao](https://www.ziangxiao.com/), and [Dr. Paul Yi, MD](https://www.stjude.org/people/y/paul-yi.html).
 
