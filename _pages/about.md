@@ -29,7 +29,18 @@ talks: true
 I am on the job market for 2026. Please reach out if you know any opportunities!</span> 
 <br/>
 
-<a href="https://amamamahmood.github.io/assets/pdf/CV-Amama-Mahmood.pdf" target="_blank" class="cv-button">
+
+<a href="https://amamamahmood.github.io/assets/pdf/CV-Amama-Mahmood.pdf" 
+   target="_blank"
+   style="
+     display:inline-block;
+     padding:10px 16px;
+     background:#b91eb2;
+     color:white;
+     text-decoration:none;
+     border-radius:6px;
+     font-weight:600;
+   ">
   📄 View my CV
 </a>
 
