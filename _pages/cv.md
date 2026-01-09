@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: cv
-enabled: false
+enabled: true
 nav: false
 nav_order: 5
 cv_pdf: CV-Amama-Mahmood.pdf
