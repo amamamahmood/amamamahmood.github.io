@@ -424,6 +424,11 @@
   }
   window.addEventListener('load', syncPubsHeight);
   window.addEventListener('resize', syncPubsHeight);
+
+  document.querySelectorAll('a[href^="http"]').forEach(function(a){
+    a.target = '_blank';
+    a.rel = 'noopener noreferrer';
+  });
 </script>
 </body>
 </html>
